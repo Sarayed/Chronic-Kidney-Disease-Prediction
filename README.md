@@ -1,1 +1,1 @@
-# Chronic-Kidney-Disease-Prediction
+# Diagnosis of Chronic Kidney Disease Using Effective Classification
